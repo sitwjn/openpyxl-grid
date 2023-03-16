@@ -29,7 +29,7 @@ py -m pip install openpyxl-grid
 ## Running the tests
 
 There is a simple guide of how to use the module in a python file in this section. 
-And an example python file named example_stock.py for test purpose is list in the project directory of test.
+And an example python file named [example_stock.py](https://github.com/sitwjn/openpyxl-grid/tree/main/test/example_stock.py) for test purpose is list in the project directory of test.
 
 ### Example code for test
 
@@ -108,7 +108,7 @@ The Definition of OType is in the file of xoper.py for detail.
 
 ### Example file for test purpose
 
-Example python file named example_stock.py for test purpose is list in the project directory of test. After module installation of this porject by the tool of pip, this example file can be executed successfully if the installation is correct.
+Example python file named [example_stock.py](https://github.com/sitwjn/openpyxl-grid/tree/main/test/example_stock.py) for test purpose is list in the project directory of test. After module installation of this porject by the tool of pip, this example file can be executed successfully if the installation is correct.
 
 ## Versioning
 
