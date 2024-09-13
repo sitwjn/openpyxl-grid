@@ -119,8 +119,6 @@ to see all available versions.
 
 * **Jianai Wang** - *Initial work* - [Openpyxl-grid](https://github.com/sitwjn/openpyxl-grid)
 
-See also the list of [contributors](https://github.com/sitwjn/openpyxl-grid/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
